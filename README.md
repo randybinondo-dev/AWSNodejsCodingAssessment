@@ -1,5 +1,7 @@
 # AWS NodeJS Coding Assessment
 
+![example workflow](https://github.com/randybinondo-dev/AWSNodejsCodingAssessment/actions/workflows/node.js.yml/badge.svg)
+
 ### Running
 
 ```
