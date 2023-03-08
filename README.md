@@ -1,6 +1,7 @@
 # AWS NodeJS Coding Assessment
 
 ![example workflow](https://github.com/randybinondo-dev/AWSNodejsCodingAssessment/actions/workflows/node.js.yml/badge.svg)
+[![codecov](https://codecov.io/gh/randybinondo-dev/AWSNodejsCodingAssessment/branch/main/graph/badge.svg?token=6AIKCOG81I)](https://codecov.io/gh/randybinondo-dev/AWSNodejsCodingAssessment)
 
 ### Running
 
